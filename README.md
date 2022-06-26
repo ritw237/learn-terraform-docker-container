@@ -1,5 +1,12 @@
 # learn-terraform-docker-container
 
+
+## Prerequisites:
+1) Terraform needs to be installed. https://www.terraform.io/downloads.html (for downloads). Make sure that the terraform binary is available in your `PATH`. Verify your installation by running `terraform -help` command.
+
+2) Docker desktop (if you are on Windows) needs to be installed and running before executing the `terraform apply` command. 
+
+
 ## Provisioned nginx server in docker using terraform
 
 After writing the main.tf file, execute these commands in terminal:
