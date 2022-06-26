@@ -25,4 +25,4 @@ localhost:8000 works!
 
 ## Stopping container
 
-'terraform destroy' command to destroy your NGINX webserver.
+`terraform destroy` command to destroy your NGINX webserver.
